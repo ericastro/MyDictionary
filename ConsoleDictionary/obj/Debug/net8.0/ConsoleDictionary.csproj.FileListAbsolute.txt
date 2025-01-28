@@ -1,0 +1,14 @@
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\bin\Debug\net8.0\ConsoleDictionary.exe
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\bin\Debug\net8.0\ConsoleDictionary.deps.json
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\bin\Debug\net8.0\ConsoleDictionary.runtimeconfig.json
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\bin\Debug\net8.0\ConsoleDictionary.dll
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\bin\Debug\net8.0\ConsoleDictionary.pdb
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ConsoleDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ConsoleDictionary.AssemblyInfoInputs.cache
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ConsoleDictionary.AssemblyInfo.cs
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ConsoleDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ConsoleDictionary.dll
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\refint\ConsoleDictionary.dll
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ConsoleDictionary.pdb
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ConsoleDictionary.genruntimeconfig.cache
+C:\Users\Eric\source\repos\ConsoleDictionary\ConsoleDictionary\obj\Debug\net8.0\ref\ConsoleDictionary.dll
