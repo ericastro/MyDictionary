@@ -27,19 +27,16 @@ namespace ConsoleDictionary
 
         public void ChoiceOption()
         {
-            int? option = Convert.ToInt16(Console.ReadLine());
+            string? option = Console.ReadLine();
 
-            if( option is null )
+            if ( Int32.TryParse(option, out int result) )
             {
                 PressAnyKey("Você digitou uma opção inválida!");
                 return;
             }
 
-            switch (option)
+            switch (result)
             {
-                case 0:
-                    Exit = 'S';
-                    break;
                 case 1:
                     ValueAdd();
                     break;
@@ -52,6 +49,9 @@ namespace ConsoleDictionary
                 case 4:
                     ClearDictionary();
                     break;
+                case 5:
+                    Exit = 'S';
+                    break;
                 default:
                     PressAnyKey("Você digitou uma opção que não existe no menu.");
                     break;
@@ -61,12 +61,12 @@ namespace ConsoleDictionary
         public void MainMenuCreate()
         {
             Console.Clear();
-            Console.WriteLine("O que deseja fazer com seu dicionário?");
+            Console.WriteLine(" ** O que deseja fazer com seu dicionário? **" );
             Console.WriteLine(" 1 - Adcionar um novo valor : ");
             Console.WriteLine(" 2 - Retornar valor pela chave : ");
             Console.WriteLine(" 3 - Mostrar os valores gravados no dicionário : ");
             Console.WriteLine(" 4 - Limpar os valores do dicionário : ");
-            Console.WriteLine(" 0 - Para sair do programa!");
+            Console.WriteLine(" 5 - Para sair do programa!");
             ChoiceOption();
         }
 
@@ -167,13 +167,13 @@ namespace ConsoleDictionary
             if (MyDictionary.TryGetValue(key, out string? value))
             {
                 Console.WriteLine(key + " => " + value);
-                PressAnyKey("");
             }
             else
             {
-                PressAnyKey("Dicionário não contém a chave digitada!");
-
+                Console.WriteLine("Dicionário não contém a chave digitada!");
             }
+            Console.WriteLine("Pressione uma tecla para continuar");
+            Console.ReadKey();
         }
 
         private void PressAnyKey(string msg)

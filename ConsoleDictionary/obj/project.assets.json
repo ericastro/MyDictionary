@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eric\\source\\repos\\ConsoleDictionary\\ConsoleDictionary\\ConsoleDictionary.csproj",
+      "projectUniqueName": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\ConsoleDictionary.csproj",
       "projectName": "ConsoleDictionary",
-      "projectPath": "C:\\Users\\Eric\\source\\repos\\ConsoleDictionary\\ConsoleDictionary\\ConsoleDictionary.csproj",
+      "projectPath": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\ConsoleDictionary.csproj",
       "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eric\\source\\repos\\ConsoleDictionary\\ConsoleDictionary\\obj\\",
+      "outputPath": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

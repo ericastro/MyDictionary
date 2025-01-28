@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lszLbf2fmbc=",
+  "dgSpecHash": "FK33S3m5/OI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eric\\source\\repos\\ConsoleDictionary\\ConsoleDictionary\\ConsoleDictionary.csproj",
+  "projectFilePath": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\ConsoleDictionary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eric\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
