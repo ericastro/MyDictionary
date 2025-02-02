@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|c:\\users\\eric\\source\\repos\\ericastro\\mydictionary\\consoledictionary\\consoledictionary\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|solutionrelative:consoledictionary\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|c:\\users\\eric\\source\\repos\\ericastro\\mydictionary\\consoledictionary\\consoledictionary\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|solutionrelative:consoledictionary\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|c:\\users\\eric\\source\\repos\\ericastro\\mydictionary\\consoledictionary\\consoledictionary\\screenmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|solutionrelative:consoledictionary\\screenmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|c:\\users\\eric\\source\\repos\\ericastro\\mydictionary\\consoledictionary\\consoledictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF828491-E89C-47A0-856D-1432B09E167D}|ConsoleDictionary\\ConsoleDictionary.csproj|solutionrelative:consoledictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,29 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\Services.cs",
+              "RelativeDocumentMoniker": "ConsoleDictionary\\Services.cs",
+              "ToolTip": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\Services.cs",
+              "RelativeToolTip": "ConsoleDictionary\\Services.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIAywEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:10:12.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\Repository.cs",
+              "RelativeDocumentMoniker": "ConsoleDictionary\\Repository.cs",
+              "ToolTip": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\Repository.cs",
+              "RelativeToolTip": "ConsoleDictionary\\Repository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vwsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:26:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScreenMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\ScreenMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleDictionary\\ScreenMenu.cs",
+              "ToolTip": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\ScreenMenu.cs",
+              "RelativeToolTip": "ConsoleDictionary\\ScreenMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:26:50.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleDictionary\\Program.cs",
               "ToolTip": "C:\\Users\\Eric\\source\\repos\\ericastro\\MyDictionary\\ConsoleDictionary\\ConsoleDictionary\\Program.cs",
               "RelativeToolTip": "ConsoleDictionary\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T21:58:17.802Z",
               "EditorCaption": ""

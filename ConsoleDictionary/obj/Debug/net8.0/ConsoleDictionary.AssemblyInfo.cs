@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6fb5db221f93321fd674314fe19dd698a5a60fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+253e1bbdf50866facef85ba58c2f53f49ffebb72")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
